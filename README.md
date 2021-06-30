@@ -18,10 +18,13 @@ Vibrio parahaemolyticus is an important food-borne human pathogen and is divided
 
 
 ## Getting Kaptive
-Download Kaptive from https://github.com/katholt/Kaptive and install the software following the instructions
+Download Kaptive from https://github.com/katholt/Kaptive and install the software following the instructions on that page
 
-## Using the database
-Git clone ..
+## Using the Vibrio parahaemolyticus database
+```
+$ git clone https://github.com/aldertzomer/vibrio_parahaemolyticus_genomoserotyping.git
+$ kaptive -k vibrio_parahaemolyticus_genomoserotyping.git/vibriopara_K_kaptivedb_v3.gbk -a path/to/assemblies/*.fasta -o output
+$ kaptive -k vibrio_parahaemolyticus_genomoserotyping.git/vibriopara_O_kaptivedb_v2.gbk -a path/to/assemblies/*.fasta -o output
+```
 
-kaptive -k 
 
