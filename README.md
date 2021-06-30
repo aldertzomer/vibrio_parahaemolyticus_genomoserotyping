@@ -1,11 +1,11 @@
 ## Development of Kaptive databases for Vibrio parahaemolyticus O- and K-antigen serotyping
 
-Linda van der Graaf – van Bloois1,2, Hongyou Chen3, Jaap A. Wagenaar1,2,4 and Aldert L. Zomer1,2
+Linda van der Graaf – van Bloois<sup>1,2</sup>, Hongyou Chen<sup>3</sup>, Jaap A. Wagenaar<sup>1,2,4</sup> and Aldert L. Zomer<sup>1,2</sup>
 
-1 Department of Infectious Diseases and Immunology, Faculty of Veterinary Medicine, Utrecht University, the Netherlands 
-2  WHO Collaborating Centre for Campylobacter / OIE Reference Laboratory for Campylobacteriosis 
-3  Shanghai Municipal Center for Disease Control and Prevention, No. 1380, Zhong Shan Xi Rd., Shanghai 200336, PR China
-4 Wageningen Bioveterinary Research, Lelystad, the Netherlands
+<sup>1</sup> Department of Infectious Diseases and Immunology, Faculty of Veterinary Medicine, Utrecht University, the Netherlands<p>
+<sup>2</sup> WHO Collaborating Centre for Campylobacter / OIE Reference Laboratory for Campylobacteriosis<p>
+<sup>3</sup> Shanghai Municipal Center for Disease Control and Prevention, No. 1380, Zhong Shan Xi Rd., Shanghai 200336, PR China<p>
+<sup>4</sup> Wageningen Bioveterinary Research, Lelystad, the Netherlands<p>
 
 
 Running title: Development of V. parahaemolyticus O- and K-antigen Kaptive databases
