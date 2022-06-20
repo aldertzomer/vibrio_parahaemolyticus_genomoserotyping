@@ -14,7 +14,7 @@ Corresponding author: Aldert Zomer
  
 ## Abstract
 
-Vibrio parahaemolyticus is an important food-borne human pathogen and is divided in 16 O-serotypes and 71 K-serotypes. Agglutination tests are still the gold standard for serotyping, but many V. parahaemolyticus isolates are not typable by agglutination. An alternative for agglutination tests is serotyping using genome sequences. In this study, we manually identified all O- and K-loci from publicly available genomes and in-house sequenced V. parahaemolyticus isolates which we serotyped, and developed Kaptive databases for all O- and K-loci. These Kaptive databases with the identified V. parahaemolyticus O- and K -loci can be used to identify the O- and K-serotypes of V. parahaemolyticus isolates from whole genome sequencing data. 
+Vibrio parahaemolyticus is an important food-borne human pathogen and is divided in 16 O-serotypes and 71 K-serotypes. Agglutination tests are still the gold standard for serotyping, but many V. parahaemolyticus isolates are not typable by agglutination. An alternative for agglutination tests is serotyping using whole genome sequencing data. In this study, V. parahaemolyticus isolates are serotyped and sequenced, and all known and several novel O- and K-loci are identified. We developed Kaptive databases for all O- and K-loci after manual curation of the loci. These Kaptive databases with the identified V. parahaemolyticus O- and K -loci can be used to identify the O- and K-serotypes of V. parahaemolyticus isolates from genome sequences. 
 
 
 ## Getting Kaptive
@@ -23,8 +23,8 @@ Download Kaptive from https://github.com/katholt/Kaptive and install the softwar
 ## Using the Vibrio parahaemolyticus database
 ```
 $ git clone https://github.com/aldertzomer/vibrio_parahaemolyticus_genomoserotyping.git
-$ kaptive -k vibrio_parahaemolyticus_genomoserotyping.git/vibriopara_K_kaptivedb_v3.gbk -a path/to/assemblies/*.fasta -o output
-$ kaptive -k vibrio_parahaemolyticus_genomoserotyping.git/vibriopara_O_kaptivedb_v2.gbk -a path/to/assemblies/*.fasta -o output
+$ kaptive -k vibrio_parahaemolyticus_genomoserotyping.git/VibrioPara_Kaptivedb_K.gbk -a path/to/assemblies/*.fasta -o output
+$ kaptive -k vibrio_parahaemolyticus_genomoserotyping.git/VibrioPara_Kaptivedb_O.gbk -a path/to/assemblies/*.fasta -o output
 ```
 
 
