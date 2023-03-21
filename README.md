@@ -8,6 +8,7 @@ Linda van der Graaf – van Bloois<sup>1,2</sup>, Hongyou Chen<sup>3</sup>, Jaap
 <sup>4</sup> Wageningen Bioveterinary Research, Lelystad, the Netherlands<p>
 
 Running title: Development of V. parahaemolyticus O- and K-antigen Kaptive databases
+
 Corresponding author: Aldert Zomer
 
 ## Impact Statement
