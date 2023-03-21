@@ -65,3 +65,152 @@ TBA
 | Serotype Unknown/New |              |              |                  |                         |                  |
 |                      | OL101        | in database  | 670.840          | PATRIC                  |                  |
 
+ 
+## K Loci table
+  
+| K-serotype           | K-locus name | Availability                           | Reference genome | Sequences obtained from | Accession number |
+|----------------------|--------------|----------------------------------------|------------------|-------------------------|------------------|
+| 1                    | KL1          | in database                            | GCA_001558495    | NCBI                    |                  |
+| 2                    |              | does not exist                         |                  |                         |                  |
+| 3                    | KL3          | in database                            | VP161550         | this study              |  GCA_905331795   |
+| 4                    | KL4          | in database                            | GCA_001728085    | NCBI                    |                  |
+| 5                    | KL5          | in database                            | GCA_001727055    | NCBI                    |                  |
+| 6                    | KL6          | in database                            | VP910044         | this study              |  GCA_905332005   |
+| 7                    | KL7          | in database                            | VP160417         | this study              |  GCA_905331685   |
+| 8                    | KL8          | in database                            | VP830010         | this study              |  GCA_905331985   |
+| 9                    | KL9          | in database                            | VP161972         | this study              |  GCA_905331865   |
+| 10                   | KL10         | in database                            | GCA_000491695    | NCBI                    |                  |
+| 11                   | KL11         | in database                            | GCA_000490055    | NCBI                    |                  |
+| 12                   | KL12         | in database                            | VP840119         | this study              |  GCA_905331995   |
+| 13                   | KL13         | in database                            | GCA_000491895    | NCBI                    |                  |
+| 14                   |              | does not exist                         |                  |                         |                  |
+| 15                   | KL15         | in database                            | GCA_000491775    | NCBI                    |                  |
+| 16                   |              | does not exist                         |                  |                         |                  |
+| 17                   | KL17         | in database                            | VP170142         | this study              |  GCA_905331935   |
+| 18                   | KL18         | in database                            | VP160919         | this study              |  GCA_905331745   |
+| 19                   | KL19         | in database                            | GCA_000958655.1  | NCBI                    |                  |
+| 20                   | KL20-1       | in database                            | GCA_001727405    | NCBI                    |                  |
+| 20                   | KL20         | in database                            | VP161621         | this study              |  GCA_905331805   |
+| 21                   | KL21         | in database                            | GCA_000454245    | NCBI                    |                  |
+| 22                   | KL22         | in database                            | VP180431         | this study              |  GCA_905331925   |
+| 23                   | KL23         | in database                            | GCA_001728345    | NCBI                    |                  |
+| 24                   | KL24         | in database                            | 20521            | this study              |  GCA_905331545   |
+| 25                   | KL25         | in database                            | VP860051         | this study              |  GCA_905331975   |
+| 26                   |              | no isolate/genome with this K serotype |                  |                         |                  |
+| 27                   |              | does not exist                         |                  |                         |                  |
+| 28                   | KL28         | in database                            | VP160534         | this study              |  GCA_905331725   |
+| 29                   | KL29         | in database                            | VP170038         | this study              |  GCA_905331875   |
+| 30                   | KL30-1       | in database                            | GCA_001726685    | NCBI                    |                  |
+| 30                   | KL30         | in database                            | GCA_001728725    | NCBI                    |                  |
+| 31                   | KL31         | in database                            | VP100010         | this study              |  GCA_905331655   |
+| 32                   | KL32         | in database                            | 20528            | this study              |  GCA_905331555   |
+| 33                   | KL33         | in database                            | GCA_002153875    | NCBI                    |                  |
+| 34                   | KL34         | in database                            | GCA_000707705    | NCBI                    |                  |
+| 35                   |              | does not exist                         |                  |                         |                  |
+| 36                   | KL36         | in database                            | VP161613         | this study              |  GCA_905331785   |
+| 37                   | KL37         | in database                            | GCA_001975475    | NCBI                    |                  |
+| 38                   | KL38         | in database                            | VP180960         | this study              |  GCA_905331965   |
+| 39                   | KL39         | in database                            | GCA_001727735    | NCBI                    |                  |
+| 40                   | KL40         | in database                            | 20535            | this study              |  GCA_905331575   |
+| 41                   | KL41         | in database                            | VP180363         | this study              |  GCA_905331945   |
+| 42                   | KL42         | in database                            | GCA_001727105    | NCBI                    |                  |
+| 43                   | KL43         | in database                            | 20538            | this study              |  GCA_905331585   |
+| 44                   | KL44         | in database                            | VP160968         | this study              |  GCA_905331755   |
+| 45                   | KL45         | in database                            | VP180089         | this study              |  GCA_905331955   |
+| 46                   | KL46         | in database                            | VP160552         | this study              |  GCA_905331715   |
+| 47                   | KL47         | in database                            | 20542            | this study              |  GCA_905331615   |
+| 48                   | KL48         | in database                            | VP120269         | this study              |  GCA_905331665   |
+| 49                   | KL49         | in database                            | GCA_002154055    | NCBI                    |                  |
+| 50                   | KL50         | in database                            | 20545            | this study              |  GCA_905331595   |
+| 51                   | KL51         | in database                            | VP120841         | this study              |  GCA_905331695   |
+| 52                   | KL52         | in database                            | VP180273         | this study              |  GCA_905331905   |
+| 53                   | KL53         | in database                            | GCA_001728135    | NCBI                    |                  |
+| 54                   | KL54         | in database                            | GCA_000958585    | NCBI                    |                  |
+| 55                   | KL55         | in database                            | VP180179         | this study              |  GCA_905331915   |
+| 56                   | KL56         | in database                            | VP161624         | this study              |  GCA_905331825   |
+| 57                   | KL57         | in database                            | GCA_002150155    | NCBI                    |                  |
+| 58                   | KL58         | in database                            | GCA_001609345    | NCBI                    |                  |
+| 59                   | KL59         | in database                            | VP162119         | this study              |  GCA_905331845   |
+| 60                   | KL60         | in database                            | VP161546         | this study              |  GCA_905331765   |
+| 61                   | KL61         | in database                            | 20556            | this study              |  GCA_905331605   |
+| 62                   |              | does not exist                         |                  |                         |                  |
+| 63                   | KL63         | in database                            | VP162129         | this study              |  GCA_905331855   |
+| 64                   | KL64         | in database                            | GCA_001856035    | NCBI                    |                  |
+| 65                   | KL65         | in database                            | 20564            | this study              |  GCA_905331625   |
+| 66                   | KL66         | in database                            | 20565            | this study              |  GCA_905331645   |
+| 67                   | KL67         | in database                            | 20566            | this study              |  GCA_905331635   |
+| 68                   | KL68         | in database                            | GCA_001273575    | NCBI                    |                  |
+| 68                   | KL68-1       | in database                            | GCA_001728625    | NCBI                    |                  |
+| 69                   | KL69         | in database                            | GCA_000491275    | NCBI                    |                  |
+| 70                   | KL70         | in database                            | GCA_001726855    | NCBI                    |                  |
+| 71                   | KL71         | in database                            | VP32             | CNGB                    | CNA0007063       |
+| KUT1                 | KLUT1        | in database                            | GCA_001584415    | NCBI                    |                  |
+| KUT2                 | KLUT2        | in database                            | GCA_001609575    | NCBI                    |                  |
+| KUT3                 | KLUT3        | in database                            | VP162105         | this study              | GCA_905331815.1  |
+| KUT4                 | KLUT4        | in database                            | VP162125         | this study              | GCA_905331835.1  |
+| KUT5                 | KLUT5        | in database                            | VP162180         | this study              | GCA_905331885.1  |
+| KUT6                 | KLUT6        | in database                            | VP161168         | this study              | GCA_905331775.1  |
+| KUT7                 | KLUT7        | in database                            | VP160744         | this study              | GCA_905331735.1  |
+| KUT8                 | KLUT8        | in database                            | VP160152         | this study              | GCA_905331705.1  |
+| Serotype UnTypable   |              |                                        |                  |                         |                  |
+|                      | KLUT4-1      | in database                            | GCA_001726495    | NCBI                    |                  |
+|                      |              |                                        |                  |                         |                  |
+|                      |              |                                        |                  |                         |                  |
+| Serotype Unknown/New |              |                                        |                  |                         |                  |
+|                      | KL101        | in database                            | GCA_000489655    | NCBI                    |                  |
+|                      | KL102        | in database                            | GCA_002221185    | NCBI                    |                  |
+|                      | KL103        | in database                            | GCA_000490115    | NCBI                    |                  |
+|                      | KL104        | in database                            | GCA_000500545    | NCBI                    |                  |
+|                      | KL105        | in database                            | GCA_000523375    | NCBI                    |                  |
+|                      | KL106        | in database                            | GCA_000591555    | NCBI                    |                  |
+|                      | KL107        | in database                            | GCA_000707085    | NCBI                    |                  |
+|                      | KL108        | in database                            | GCA_000732995    | NCBI                    |                  |
+|                      | KL109        | in database                            | GCA_000786835    | NCBI                    |                  |
+|                      | KL110        | in database                            | GCA_000877625    | NCBI                    |                  |
+|                      | KL111        | in database                            | GCA_000972025    | NCBI                    |                  |
+|                      | KL112        | in database                            | GCA_001268005    | NCBI                    |                  |
+|                      | KL113        | in database                            | GCA_001726435    | NCBI                    |                  |
+|                      | KL114        | in database                            | GCA_001268015    | NCBI                    |                  |
+|                      | KL115        | in database                            | GCA_001610595    | NCBI                    |                  |
+|                      | KL116        | in database                            | GCA_001273635    | NCBI                    |                  |
+|                      | KL117        | in database                            | GCA_001433415    | NCBI                    |                  |
+|                      | KL118        | in database                            | GCA_001608855    | NCBI                    |                  |
+|                      | KL119        | in database                            | GCA_001727295    | NCBI                    |                  |
+|                      | KL120        | in database                            | GCA_001727345    | NCBI                    |                  |
+|                      | KL121        | in database                            | GCA_001727045    | NCBI                    |                  |
+|                      | KL122        | in database                            | GCA_001727155    | NCBI                    |                  |
+|                      | KL123        | in database                            | GCA_001727645    | NCBI                    |                  |
+|                      | KL124        | in database                            | GCA_002018725    | NCBI                    |                  |
+|                      | KL125        | in database                            | GCA_002150335    | NCBI                    |                  |
+|                      | KL126        | in database                            | GCA_002153895    | NCBI                    |                  |
+|                      | KL127        | in database                            | GCA_002153975    | NCBI                    |                  |
+|                      | KL128        | in database                            | GCA_002154015    | NCBI                    |                  |
+|                      | KL129        | in database                            | GCA_002018535    | NCBI                    |                  |
+|                      | KL130        | in database                            | GCA_002144585    | NCBI                    |                  |
+|                      | KL131        | in database                            | GCA_002221065    | NCBI                    |                  |
+|                      | KL132        | in database                            | GCA_002221165    | NCBI                    |                  |
+|                      | KL133        | in database                            | 670.938          | PATRIC                  |                  |
+|                      | KL134        | in database                            | 670.90           | PATRIC                  |                  |
+|                      | KL135        | in database                            | 670.812          | PATRIC                  |                  |
+|                      | KL136        | in database                            | 1620393.3        | PATRIC                  |                  |
+|                      | KL137        | in database                            | 670.467          | PATRIC                  |                  |
+|                      | KL138        | in database                            | 670.466          | PATRIC                  |                  |
+|                      | KL139        | in database                            | 670.2224         | PATRIC                  |                  |
+|                      | KL140        | in database                            | 670.2093         | PATRIC                  |                  |
+|                      | KL141        | in database                            | 670.2085         | PATRIC                  |                  |
+|                      | KL142        | in database                            | 670.2080         | PATRIC                  |                  |
+|                      | KL143        | in database                            | 670.2053         | PATRIC                  |                  |
+|                      | KL144        | in database                            | 670.2033         | PATRIC                  |                  |
+|                      | KL145        | in database                            | 670.1966         | PATRIC                  |                  |
+|                      | KL146        | in database                            | 670.1961         | PATRIC                  |                  |
+|                      | KL147        | in database                            | 670.1931         | PATRIC                  |                  |
+|                      | KL148        | in database                            | 670.1914         | PATRIC                  |                  |
+|                      | KL149        | in database                            | 670.1676         | PATRIC                  |                  |
+|                      | KL150        | in database                            | 670.1673         | PATRIC                  |                  |
+|                      | KL151        | in database                            | 670.1672         | PATRIC                  |                  |
+|                      | KL152        | in database                            | 670.1657         | PATRIC                  |                  |
+|                      | KL153        | in database                            | 670.1645         | PATRIC                  |                  |
+|                      | KL154        | in database                            | 670.1383         | PATRIC                  |                  |
+|                      | KL155        | in database                            | 670.1377         | PATRIC                  |                  |
+|                      | KL156        | in database                            | 670.1351         | PATRIC                  |                  |
+|                      | KL157        | in database                            | 670.1111         | PATRIC                  |                  |
