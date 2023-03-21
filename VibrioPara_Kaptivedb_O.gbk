@@ -13,18 +13,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL101"
-     CDS             4..408
-                     /gene="dgkA"
-                     /locus_tag="OL101_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSNSQQHQSPNSGKPGNTGLKRIIKATGYSAKGLRAAFKHEAAI
-                     RQELVMLAIAIVLVCVFDLSVIERILMLGVVVLVLIVELINSAIEAVVDRVGVEHHEL
-                     SGRAKDIGSAAVMVALAFAGFTWLYILLSLYL"
      CDS             436..1152
                      /gene="kdkA"
                      /locus_tag="OL101_00002"
@@ -142,21 +130,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVADWLMHKQRVQYGGRVYERSGGVKPFLKSVRDGYIGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRAEVLPMFASMNTEDGTFDIEILPAFELNKGEE
                      QDARTCNQAIEYFVANKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNTDWQISK"
-     CDS             complement(7548..8489)
-                     /gene="gmhD"
-                     /locus_tag="OL101_00010"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIAHHGKGEIETIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDVEFKTVAEGVAEYLTIQNS"
 ORIGIN      
         1 gcaatgtcaa atagccaaca acatcaatct ccaaattcag gaaaacctgg aaacacgggt
        61 ttaaagcgta tcatcaaagc gacgggatat tctgcgaaag gcttaagggc ggcgtttaaa
@@ -319,18 +292,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL10"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL10_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFTWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL10_00002"
@@ -550,21 +511,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVADWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYVGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFELDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNSDWKVQ"
-     CDS             complement(14036..14950)
-                     /gene="gmhD"
-                     /locus_tag="OL10_00017"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVDLDITDYMDR
-                     DDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLHYCLDREIPF
-                     LYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEKHGETLSQITG
-                     FRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVYVGDVCKVNL
-                     WFLENGVSGIFNCGTGRAESFEEVAKAVIAHHGKGEIETIPFPEHLKGAYQEFTQADL
-                     TKLRAAGCDVEFKTVAEGVAEYLTIQNG"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacagggat taaaagccgc ttttaaacat
@@ -832,18 +778,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL1-1"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL1-1_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFSWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL1-1_00002"
@@ -1079,21 +1013,6 @@ FEATURES             Location/Qualifiers
                      APQIINNSFLSHKLVQVNEYKESQSNKDYNIHSRLELWKAGLSFIPSAPLLGHGYNDK
                      PLLKERFENYGGLDLTILYHYHNQLISTWVRDGFIGTMIIIFLLLKPVTYYLRHSWPN
                      TDAMLLVCGIYAVSGLTDTPLSNASTLSFYLYFFILYFSKERCNESIRLKP"
-     CDS             complement(14797..15738)
-                     /gene="gmhD"
-                     /locus_tag="OL1-1_00018"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKTLNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTDTFVEKREYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENSVSGIFNCGTGRAESFEEVAKAVIKHHGKGKIETIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDVEFKTVAEGVAEYLTIQNH"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacaaggat taaaagctgc ttttaaacat
@@ -1374,18 +1293,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL11"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL11_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFTWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL11_00002"
@@ -1736,21 +1643,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVTDWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYIGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFDLDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNTDWQVEK"
-     CDS             complement(21932..22873)
-                     /gene="gmhD"
-                     /locus_tag="OL11_00026"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGETDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIAHHGKGEIETIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDVEFKTVAEGVAEYLTIQNS"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacagggat taaaagccgc ttttaaacat
@@ -2150,17 +2042,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL12"
-     CDS             69..329
-                     /gene="dgkA"
-                     /locus_tag="OL12_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVD
-                     RIGVERHELSGRAKDIGSAAVMVALAFAAFTWLYILASRYLG"
      CDS             340..1050
                      /gene="kdkA"
                      /locus_tag="OL12_00002"
@@ -2384,20 +2265,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVADWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYVGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFELDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNSDWKVQ"
-     CDS             complement(14054..14845)
-                     /gene="gmhD"
-                     /locus_tag="OL12_00017"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNY
-                     EYSKELLHYCLDREIPFLYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRR
-                     LWQDAEEHGETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSE
-                     SFKRDFVYVGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIAHHGKGEIETIP
-                     FPEHLKGAYQEFTQADLTKLRDAGCDVEFKTVAEGVAEYLTIQNR"
 ORIGIN      
         1 caggttattc tatacaggga ttaaaagccg tttttaaaca tgaagctgct gttcgacaag
        61 agctcgcttt gctaagcatt gctgtgattt tggcgtgcgt ggttgatgtc gggatgatag
@@ -2665,18 +2532,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL14"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL14_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFTWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL14_00002"
@@ -2832,21 +2687,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVTDWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYIGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFELDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNTDWQVEK"
-     CDS             complement(11087..12028)
-                     /gene="gmhD"
-                     /locus_tag="OL14_00012"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIAHHGKGEIETIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDVEFKTVAEGVAEYLTIQNS"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacagggat taaaagccgc ttttaaacat
@@ -3065,18 +2905,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL15"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL15_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERVLLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFSWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL15_00002"
@@ -3213,21 +3041,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVADWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYIGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFDLDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGNNYYNLFKPRYSTDWQVEK"
-     CDS             complement(9350..10291)
-                     /gene="gmhD"
-                     /locus_tag="OL15_00011"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAAEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIKHHGKGQIETIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDVEFKTVAEGVAEYLTIQNS"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacaaggat taaaagctgc ttttaaacat
@@ -3417,18 +3230,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL16"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL16_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFTWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL16_00002"
@@ -3671,21 +3472,6 @@ FEATURES             Location/Qualifiers
                      APQILNNSFLSHKLVQVNEYKESQSNKDYNIHSRLELWKAGLSFIPSAPLLGHGYNDK
                      PLLEERFENYGGLDLTILYHYHNQIISTWVRDGFIGTMIIILLLLKPVTYYLRHSWPN
                      TDAMLLVCGIYAVSGLTDTPLSNASTLSFYLYFFILYFSKERCNESIRLKP"
-     CDS             complement(16107..17021)
-                     /gene="gmhD"
-                     /locus_tag="OL16_00018"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVDLDITDYMDR
-                     DDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLHYCLDREIPF
-                     LYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWKDAEEHGETLSQITG
-                     FRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVYVGDVCKVNL
-                     WFLENGVSGIFNCGTGRAESFEEVAKAVIEHHGKGQIETIPFPEHLKGAYQEFTQADL
-                     TKLRSAGCDVEFKTVAEGVAEYLTTQNR"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacagggat taaaagccgc ttttaaacat
@@ -3988,18 +3774,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL1"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL1_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFTWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL1_00002"
@@ -4205,21 +3979,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVADWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYIGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFDLDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNTDWQVEK"
-     CDS             complement(12745..13686)
-                     /gene="gmhD"
-                     /locus_tag="OL1_00016"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIAHHGKGEIETIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDVEFKTVAEGVAEYLTIQNS"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacagggat taaaagccgc ttttaaacat
@@ -4466,18 +4225,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL2"
-     CDS             1..396
-                     /gene="dgkA"
-                     /locus_tag="OL2_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18149.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIPPHSNSGKPGVTGLKRIVHATRYSWQGLSAAFRYEAAIRQEL
-                     ALLIIAIVLLLVLGLPLIESLLMFASVVLVLIVELLNSAIEAVVDRIGAEHHELSGRA
-                     KDIGSAAVLVALCLAGVVWVSVLGTHYFL"
      CDS             407..1114
                      /gene="kdkA"
                      /locus_tag="OL2_00002"
@@ -4724,21 +4471,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNEVTDWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYIGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFDLDKGEE
                      QDARTCNAAIEYFIRDKPEQYMWVLQLLHSQEDGKNFYYLFKPRYETDWQIKK"
-     CDS             complement(16360..17301)
-                     /gene="gmhD"
-                     /locus_tag="OL2_00018"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNKVGLNDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSSTTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTDTFVEECEYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGDNPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIAHHGKGEIETIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDVKFKTVAEGVAEYLTIQNG"
 ORIGIN      
         1 atgattcctc cccattcaaa ttctggcaaa cccggtgtaa cgggtctaaa acgtattgtt
        61 cacgcaacgc gatattcttg gcaagggcta agtgctgctt ttcgttatga agctgccatc
@@ -5045,18 +4777,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL13_or_OL13"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL3_or_OL13_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFTWLYILASRYLG"
      CDS             419..1135
                      /gene="kdkA"
                      /locus_tag="OL3_or_OL13_00002"
@@ -5336,21 +5056,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVADWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYIGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFDLDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNTDWQVEK"
-     CDS             complement(18647..19588)
-                     /gene="gmhD"
-                     /locus_tag="OL3_or_OL13_00020"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGETETFVEEREYEGALNVYGYSKQQFDNYVRRLWKDAEEH
-                     GEQLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQINAGENPKLFEGSGHFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVVKHHNKGEIQTIPFPDHLKGA
-                     YQEFTQADLTKLRAAGCDVEFKTVAEGVAEYLTIQNS"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacagggat taaaagccgc ttttaaacat
@@ -5695,18 +5400,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL4-1"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL4-1_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFSWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL4-1_00002"
@@ -5976,21 +5669,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNEVADWLMHEQRVQYGGRVYERSGGVKPFLKSVRDGYIGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRAKVLPMFASMNTENGTFDIEILPAFELDKGEE
                      QDARTCNQAIEYFVANKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNSDWKVQ"
-     CDS             complement(17699..18640)
-                     /gene="gmhD"
-                     /locus_tag="OL4-1_00021"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVG
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIAHHGKGEIETIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDVEFKTVAEGVAEYLTIQNS"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacaaggat taaaagccgc ttttaaacat
@@ -6319,18 +5997,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL4"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL4_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFTWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL4_00002"
@@ -6599,21 +6265,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNEVADWLMHEQRVQYGGRVYERSGGVKPFLKSVRDGYIGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRAKVLPMFASMNIEDGTFDIEILPAFELDKGEE
                      QDARTCNQAIEYFVANKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNSDWKVQ"
-     CDS             complement(17605..18546)
-                     /gene="gmhD"
-                     /locus_tag="OL4_00021"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIQHHNKGEIQTIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDIEFKTVAEGVAEYLTIQNR"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa aaccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacagggat taaaagccgc ttttaaacat
@@ -6941,18 +6592,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL5"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL5_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFSWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL5_00002"
@@ -7217,21 +6856,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVTDWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYIGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFELDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNTDWQVEK"
-     CDS             complement(17903..18844)
-                     /gene="gmhD"
-                     /locus_tag="OL5_00019"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDLGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIAHHGKGEIETIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDVEFKTVAEGVAEYLTIQNS"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacagggat taaaagccgc ttttaaacat
@@ -7564,18 +7188,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL6"
-     CDS             1..381
-                     /gene="dgkA"
-                     /locus_tag="OL6_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MTTGKPGNTGIKRIVKATGYSIQGLKAAFKHEAAIRQELGLLVF
-                     AIVLVSLFDVTMVERILMLGVVVLVLIVELLNSAVEAVVDRVGVEYHELSGRAKDIGS
-                     AAVLVALGFAGFTWAYILASHYLF"
      CDS             392..1108
                      /gene="kdkA"
                      /locus_tag="OL6_00002"
@@ -7786,21 +7398,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVADWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYVGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTKDGTFDIEILPAFELDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGSNYYNLFKPRYNSDWKV"
-     CDS             complement(15583..16524)
-                     /gene="gmhD"
-                     /locus_tag="OL6_00015"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIAHHGKGEIETIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDVEFKTVAEGVAEYLTIQNS"
 ORIGIN      
         1 atgacgacgg gtaaaccagg taatactggc atcaaacgca ttgtgaaagc gacaggttat
        61 tctattcaag ggcttaaagc cgcttttaaa catgaagcag ccattcgcca agagttaggg
@@ -8094,18 +7691,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL7-1"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL7-1_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFSWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL7-1_00002"
@@ -8360,21 +7945,6 @@ FEATURES             Location/Qualifiers
                      SPQILNNSFLSYKLVQANEYNGSNVDKDYNIHSRLELWKAGLSFIPSAPLLGHGYNDK
                      TLLKERFENYGGLDLTILYHYHNQIISAWVRDGFIGAMIIIFLLLKPATNYLQHSLPN
                      TDAMLLVCGIYAISGLTDTPLSNASTLSFYLYFFILYFSIEHCNESIRLKP"
-     CDS             complement(16255..17169)
-                     /gene="gmhD"
-                     /locus_tag="OL7-1_00019"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVDLDITDYMDR
-                     DDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLHYCLDREIPF
-                     LYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEHGETLSQITG
-                     FRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVYVGDVCKVNL
-                     WFLENGVSGIFNCGTGRAESFEEVAKAVIEHHGKGQIETIPFPEHLKGAYQEFTQADL
-                     TKLRSAGCDVEFKTVAEGVAEYLTTQNR"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacagggat taaaagccgc ttttaaacat
@@ -8679,18 +8249,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL7"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL7_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVERHEL
-                     SGRAKDIGSAAVMVALAFAAFTWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL7_00002"
@@ -8915,21 +8473,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVADWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYVGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFELDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGNNYYNLFKPRYISDWKVQ"
-     CDS             complement(14192..15106)
-                     /gene="gmhD"
-                     /locus_tag="OL7_00017"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVDLDITDYMDR
-                     DDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLHYCLDREIPF
-                     LYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEHGETLSQITG
-                     FRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVYVGDVCKVNL
-                     WFLENGVSGIFNCGTGRAESFEEVAKAVIAHHGKGEIETIPFPEHLKGAYQEFTQADL
-                     TKLRDAGCDVEFKTVAEGVAEYLTIQNR"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa aaccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacagggat taaaagccgc ttttaaacat
@@ -9200,18 +8743,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL8"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL8_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGVKRIIKATGYSIQGLKAAFKHEAAV
-                     RQELALLSIAVILACVVDVGMIERILLIGVVVLVLIVELINSAIEAVVDRIGVEHHEL
-                     SGRAKDIGSAAVMVALAFAAFSWLYILASRYLG"
      CDS             419..1129
                      /gene="kdkA"
                      /locus_tag="OL8_00002"
@@ -9462,21 +8993,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVADWLMHKQRVQYGGRVYERSGGIKPFLKSIRDGYIGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFDLDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNTDWQVEK"
-     CDS             complement(15533..16474)
-                     /gene="gmhD"
-                     /locus_tag="OL8_00019"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFCPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTDTFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIQHHNKGEIQTIPFPEHLKGA
-                     YQEFTQADLTKLRAAGCDIEFKTVAEGVAEYLTIQNR"
 ORIGIN      
         1 atgtcaaaga caacaccgca tcaatcgcaa gaatctggaa agccaggcaa tactggggta
        61 aagcgcatta tcaaagcgac aggttattct atacaaggat taaaagccgc ttttaaacat
@@ -9769,18 +9285,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="strain"
                      /note="O locus: OL9"
-     CDS             1..408
-                     /gene="dgkA"
-                     /locus_tag="OL9_00001"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18133.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MSKTTPHQSQESGKPGNTGLKRIVKATGYSIQGLKAAFKHEAAI
-                     RQELALLSIAVILAWLVDVGMVERILMIGVVVLVLIVELVNSAIEAVVDRIGIERHEL
-                     SGRAKDIGSAAVMVALAFAAFTWLYILASRYLG"
      CDS             420..1130
                      /gene="kdkA"
                      /locus_tag="OL9_00002"
@@ -10016,21 +9520,6 @@ FEATURES             Location/Qualifiers
                      SAMAKKQKNDVGDWLMHKQRIQYGGRVYERSGGIKPFLKSIRDGYVGYYLPDQDHGPE
                      HSVFVDFFATRKATLPGLGKIAKLSRSKVLPLFASMNTEDGTFDIEILPAFELDKGEE
                      QDARTCNEAIEYFVGDKPEQYMWVLQLLHSQEDGNNYYNLFKPRYNSDWKVQ"
-     CDS             complement(14457..15398)
-                     /gene="gmhD"
-                     /locus_tag="OL9_00018"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA
-                     sequence:vibrio_O_db_new.gbk:AOG18159.1"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /translation="MIIVTGGAGMIGSNIVKALNEAGINDILVVDNLKNGKKFKNLVD
-                     LDITDYMDRDDFLTQIMAGDDFGPIEAIFHEGACSATTEWDGKYMMLNNYEYSKELLH
-                     YCLDREIPFLYASSAATYGDTETFVEEREYEGALNVYGYSKQQFDNYVRRLWQDAEEH
-                     GETLSQITGFRYFNVYGPREDHKGSMASVAFHLNNQLNAGENPKLFAGSESFKRDFVY
-                     VGDVCKVNLWFLENGVSGIFNCGTGRAESFEEVAKAVIKHHGKGQIETIPFPEHLKGA
-                     YQEFTQADLTKLRTAGCDVEFKTVAEGVAEYLTIQNS"
 ORIGIN      
         1 atgtcaaaga caacaccaca tcaatcgcaa gaatctggca agccgggtaa caccgggcta
        61 aagcgcatcg ttaaagcgac gggttattcg atccaaggat taaaagcggc ttttaagcat
