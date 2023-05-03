@@ -36,6 +36,7 @@ $ kaptive -k vibrio_parahaemolyticus_genomoserotyping.git/VibrioPara_Kaptivedb_O
 
 ### Biorxiv
 https://www.biorxiv.org/content/10.1101/2021.07.06.451262v2
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001007
 
 ### Microbial Genomics
 TBA
