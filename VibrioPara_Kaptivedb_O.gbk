@@ -4776,7 +4776,7 @@ FEATURES             Location/Qualifiers
                      /organism="Genus species"
                      /mol_type="genomic DNA"
                      /strain="strain"
-                     /note="O locus: OL13_or_OL13"
+                     /note="O locus: OL3_or_OL13"
      CDS             419..1135
                      /gene="kdkA"
                      /locus_tag="OL3_or_OL13_00002"
