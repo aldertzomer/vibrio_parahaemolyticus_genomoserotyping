@@ -4776,7 +4776,7 @@ FEATURES             Location/Qualifiers
                      /organism="Genus species"
                      /mol_type="genomic DNA"
                      /strain="strain"
-                     /note="O locus: OL3_or_OL13"
+                     /note="O locus: OL3-or-OL13"
      CDS             419..1135
                      /gene="kdkA"
                      /locus_tag="OL3_or_OL13_00002"
@@ -4793,7 +4793,7 @@ FEATURES             Location/Qualifiers
                      HWKERDFAVLTEALSCLDIK"
      CDS             1230..2420
                      /gene="wvaM"
-                     /locus_tag="OL3_or_OL13_00003"
+                     /locus_tag="OL3-or-OL13_00003"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV93064.1"
@@ -4810,7 +4810,7 @@ FEATURES             Location/Qualifiers
                      DSKM"
      CDS             2433..3584
                      /gene="wvaN"
-                     /locus_tag="OL3_or_OL13_00004"
+                     /locus_tag="OL3-or-OL13_00004"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV93065.1"
@@ -4826,7 +4826,7 @@ FEATURES             Location/Qualifiers
                      SSGVMTRPIWQLMHRLPMFENAIRDDLAHSEFIEAHLINLPSTPVDIQR"
      CDS             3601..4794
                      /gene="gne"
-                     /locus_tag="OL3_or_OL13_00005"
+                     /locus_tag="OL3-or-OL13_00005"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV92946.1"
@@ -4843,7 +4843,7 @@ FEATURES             Location/Qualifiers
                      NKKVE"
      CDS             4802..5875
                      /gene="wvaO"
-                     /locus_tag="OL3_or_OL13_00006"
+                     /locus_tag="OL3-or-OL13_00006"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV93067.1"
@@ -4859,7 +4859,7 @@ FEATURES             Location/Qualifiers
                      YRYWELIGSKATKGYKAGELIIE"
      CDS             5880..6521
                      /gene="wvaP"
-                     /locus_tag="OL3_or_OL13_00007"
+                     /locus_tag="OL3-or-OL13_00007"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV93068.1"
@@ -4872,7 +4872,7 @@ FEATURES             Location/Qualifiers
                      VTQSDVYVGANATVIQNLKLAQNVVVGAGAIVTCHLDAHQVCYSGRATIKNSK"
      CDS             6469..7599
                      /gene="hddC"
-                     /locus_tag="OL3_or_OL13_00008"
+                     /locus_tag="OL3-or-OL13_00008"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV93069.1"
@@ -4888,7 +4888,7 @@ FEATURES             Location/Qualifiers
                      LLEQHMNKRNNVLMFPIHEYWLDIGRMDDFNRAQTDIYTLGL"
      CDS             7601..8320
                      /gene="wvaQ"
-                     /locus_tag="OL3_or_OL13_00009"
+                     /locus_tag="OL3-or-OL13_00009"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV92996.1"
@@ -4919,7 +4919,7 @@ FEATURES             Location/Qualifiers
                      KGNKA"
      CDS             9333..10652
                      /gene="kat"
-                     /locus_tag="OL3_or_OL13_00011"
+                     /locus_tag="OL3-or-OL13_00011"
                      /EC_number="2.6.1.111"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA sequence:UniProtKB:B0VH76"
@@ -4936,7 +4936,7 @@ FEATURES             Location/Qualifiers
                      SHGEKELEMTEKALEAALNVYKKAIDAGSTEGYLKGDVIKPVFRSIN"
      CDS             10652..11467
                      /gene="yafV"
-                     /locus_tag="OL3_or_OL13_00012"
+                     /locus_tag="OL3-or-OL13_00012"
                      /EC_number="3.5.1.3"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA sequence:UniProtKB:P0DP65"
@@ -4950,7 +4950,7 @@ FEATURES             Location/Qualifiers
                      PLGERLDPLQQGVLWDLYSINLEDVMAIRTQFPFVKDRRNSLYAQWSKHKNSQ"
      CDS             11487..12257
                      /gene="wvdC"
-                     /locus_tag="OL3_or_OL13_00013"
+                     /locus_tag="OL3-or-OL13_00013"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV93035.1"
@@ -4964,7 +4964,7 @@ FEATURES             Location/Qualifiers
                      GAGMLNVEEMTGSIVYLLSDQSKYVTGQNIIVDDGFSL"
      CDS             12319..13425
                      /gene="wvcC"
-                     /locus_tag="OL3_or_OL13_00014"
+                     /locus_tag="OL3-or-OL13_00014"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV92989.1"
@@ -4980,7 +4980,7 @@ FEATURES             Location/Qualifiers
                      AIKIADNRIDVKKNKEIINSRFKLKYKNLSSIYN"
      CDS             complement(13459..14487)
                      /gene="wvaR"
-                     /locus_tag="OL3_or_OL13_00015"
+                     /locus_tag="OL3-or-OL13_00015"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV93071.1"
@@ -4996,7 +4996,7 @@ FEATURES             Location/Qualifiers
                      WQEEFPVQ"
      CDS             complement(14484..15203)
                      /gene="wvaH"
-                     /locus_tag="OL3_or_OL13_00016"
+                     /locus_tag="OL3-or-OL13_00016"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AOG18155.1"
@@ -5010,7 +5010,7 @@ FEATURES             Location/Qualifiers
                      IELYRLFKQLNQVIYNKRKKQ"
      CDS             complement(15203..16474)
                      /gene="kdtA"
-                     /locus_tag="OL3_or_OL13_00017"
+                     /locus_tag="OL3-or-OL13_00017"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV98907.1"
@@ -5027,7 +5027,7 @@ FEATURES             Location/Qualifiers
                      QHRRFRKYITKFVENNTGALKKTLRALKENS"
      CDS             complement(16468..17526)
                      /gene="waaF"
-                     /locus_tag="OL3_or_OL13_00018"
+                     /locus_tag="OL3-or-OL13_00018"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV92999.1"
@@ -5043,7 +5043,7 @@ FEATURES             Location/Qualifiers
                      KQVLDSIQKLEAIATSSC"
      CDS             complement(17523..18512)
                      /gene="msbB"
-                     /locus_tag="OL3_or_OL13_00019"
+                     /locus_tag="OL3-or-OL13_00019"
                      /inference="ab initio prediction:Prodigal:2.6"
                      /inference="similar to AA
                      sequence:vibrio_O_db_new.gbk:AFV98909.1"
