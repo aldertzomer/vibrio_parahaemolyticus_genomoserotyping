@@ -48,7 +48,7 @@ TBA
 | 1                    | OL1          | in database  | GCA_000430405    | NCBI                    |                  |
 | 1                    | OL1-1        | in database  | 670.1382         | PATRIC                  |                  |
 | 2                    | OL2          | in database  | GCA_000492075    | NCBI                    |                  |
-| 3 or 13              | OL3_or_OL13  | in database  | GCA_000182345    | NCBI                    |                  |
+| 3 or 13              | OL3-or-OL13  | in database  | GCA_000182345    | NCBI                    |                  |
 | 4                    | OL4          | in database  | GCA_000195415    | NCBI                    |                  |
 | 4                    | OL4-1        | in database  | GCA_001273555    | NCBI                    |                  |
 | 5                    | OL5          | in database  | GCA_000491775    | NCBI                    |                  |
